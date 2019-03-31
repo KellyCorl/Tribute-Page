@@ -1,0 +1,49 @@
+#main {
+    background-color: rgb(229, 229, 229);
+    border-radius: 5px 5px 5px 5px;
+  }
+  
+   #image{
+    position: relative;
+    max-width: 100%;
+    display: block;
+    height: auto;
+  }
+  
+  #title{
+    text-align: center;
+    padding-top: 20px;
+  }
+  
+  #image{
+    width: 94%;
+    padding: 35px 35px 0px 35px;
+  }
+  
+  figure{
+    background-color: white;
+  }
+  figcaption{
+    text-align: center;
+    padding-bottom: 10px;
+  }
+  
+  li,h2{
+    width: 50%;
+    margin: auto;
+  }
+  
+  p{
+    text-align: center;
+  }
+  
+  h3{
+    text-align: center;
+  }
+  
+  #tribute-info{
+    padding-bottom: 20px;
+  }
+  
+  
+  
